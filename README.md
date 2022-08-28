@@ -13,12 +13,16 @@
 --daha sonra comments tablosunda blog puanlama işlemi için comments ve blogRatings tablosunun haberleşmesine yarayan sql kodunu yazıyorum
 
 </br>
-![image](https://user-images.githubusercontent.com/64663453/187097781-9198e48f-446e-4538-b312-a7664dcfcac2.png)
+
+![image](https://user-images.githubusercontent.com/64663453/187097817-a7f7f987-4b5b-4697-9d54-98f718e02396.png)
+
+
+</br>
 
 
 ![image](https://user-images.githubusercontent.com/64663453/187097734-a367cfef-efad-4b53-8ce6-93fd6c99936c.png)
-<br/>
+</br>
 ![image](https://user-images.githubusercontent.com/64663453/187097738-e9bd4f10-44c2-468f-957e-c25cca5dee8c.png)
-<br/>
+</br>
 ![image](https://user-images.githubusercontent.com/64663453/187097745-9f36d634-4109-41a7-bca0-488786659fb7.png)
 
